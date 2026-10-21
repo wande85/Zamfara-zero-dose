@@ -3,7 +3,7 @@
 
 **Author:** Ayanlakin Ayanwande Joshua, MPH Candidate, University of Port Harcourt
 **Manuscript:** Under review at PLOS Global Public Health
-**Contact:** ayanwande.ayanlakin@gmail.com
+**Contact:** wande.ayanlakin@gmail.com
 **GitHub:** https://github.com/wande85/Zamfara-zero-dose
 
 > This repository contains reproducible R code for analyses in manuscript: prevalence 14.6%, Global Moran's I 0.129 p=8.11e-05, LISA hotspots, multivariable logistic (Facility AOR 0.04 p=0.032, Card AOR 0.02 p=0.004), distance analysis 99.3% within 5km.
